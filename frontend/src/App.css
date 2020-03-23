@@ -1,0 +1,24 @@
+.todoForm {
+  text-align: left;
+  padding: 25px;
+  margin: 25px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.removeButton {
+  float: right;
+}
+
+h2 {
+  margin: 5px;
+  padding: 5px;
+}
+
+.menuBar {
+  margin-bottom: 20px;
+}
+
+.googleButton {
+  margin-top: 20px;
+  width: auto;
+}
