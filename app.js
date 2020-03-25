@@ -51,8 +51,8 @@ app.use(home);
 app.use(newTodo);
 app.use(todo);
 app.use(dashboard);
-app.use(logout);
 app.use(remove);
+app.use(logout);
 
 mongoose.connect(
   keys.mongoDB.dbURI,
